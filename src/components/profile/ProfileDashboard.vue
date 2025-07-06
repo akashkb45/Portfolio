@@ -10,19 +10,19 @@
             <span :class="{ active: tab === 'contact' }" @click="scroll('contacts')">Contact</span>
           </nav>
           <div class="socials">
-            <a href="https://github.com/yourusername" target="_blank" aria-label="GitHub">
+            <a href="https://github.com/akashkb45" target="_blank" aria-label="GitHub">
               <i class="fab fa-github"></i>
             </a>
-            <a href="#" target="_blank" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/akash-k-b-744169283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" aria-label="LinkedIn">
               <i class="fab fa-linkedin-in"></i>
             </a>
-            <a href="#" target="_blank" aria-label="Instagram">
+            <a href="https://www.instagram.com/_ak_a__sh_?igsh=cHBieDd2bXY4amsx" target="_blank" aria-label="Instagram">
               <i class="fab fa-instagram"></i>
             </a>
-            <a href="#" target="_blank" aria-label="Twitter">
+            <a href="https://x.com/akashkb_45?t=GF4AhK6-gYOlN4T4g0JdZQ&s=09" target="_blank" aria-label="Twitter">
               <i class="fab fa-x-twitter"></i>
             </a>
-            <a href="#" target="_blank" aria-label="Facebook">
+            <a href="https://www.facebook.com/akash.aachi.1" target="_blank" aria-label="Facebook">
               <i class="fab fa-facebook"></i>
             </a>
           </div>
